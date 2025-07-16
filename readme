@@ -1,0 +1,10 @@
+Preciso que todos os imoveis do site:
+
+https://www.teixeiradecarvalho.com.br/
+
+Que seja feito o scraping de cada um dos imoveis e todos seus dados disponiveis. O arquivo final pode estar em formatos .json e .csv
+Esse material  sera utilizado para avaliacaoes financeiras, portanto, quanto mais dados do imoveis melhor. Porem, se limite a este site.
+
+Ao final monte uma pagina HTML com os dashboards referente aos numeros de casas, preco meio por bairro, etc.
+
+Lembrando que estes sites Sao muulti paginas, portanto  ese um ponto de atencao. Alem de fazer a extracao, os scripts precisam estar todos organizados e documentados.
